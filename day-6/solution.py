@@ -82,6 +82,5 @@ def part_2():
             solution += total
     return solution
 
-
-
+print(part_1())
 print(part_2())
